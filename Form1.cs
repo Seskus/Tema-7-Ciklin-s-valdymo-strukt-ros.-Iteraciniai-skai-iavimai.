@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /// <summary>
-/// Atsiprašau, kad taip vėluoju su darbais tikiuosi atleisit :D.
 /// Mantas Šeškus PS0/1
 /// Tema 7: Ciklinės valdymo struktūros. Iteraciniai skaičiavimai.
 /// </summary>
